@@ -11,6 +11,7 @@
 - `防衛装備庁/`（[README](./防衛装備庁/README.md)）
 - `防衛研究所/`（[README](./防衛研究所/README.md)）
 - `防衛省/`（[README](./防衛省/README.md)）
+- `横須賀地方隊/`（[README](./横須賀地方隊/README.md)）
 
 ## 共通テンプレ
 
