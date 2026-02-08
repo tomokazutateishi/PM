@@ -12,6 +12,9 @@
 - `防衛研究所/`（[README](./防衛研究所/README.md)）
 - `防衛省/`（[README](./防衛省/README.md)）
 - `横須賀地方隊/`（[README](./横須賀地方隊/README.md)）
+- `株式会社日本信用情報機構/`（[README](./株式会社日本信用情報機構/README.md)）
+- `カクヤス/`（[README](./カクヤス/README.md)）
+- `千代田セレモニー/`（[README](./千代田セレモニー/README.md)）
 
 ## 共通テンプレ
 
